@@ -1,0 +1,5 @@
+1. Create web scraper for fantasy map images with serpapi
+2. Create preprocessing pipeline
+3. Set up initial GAN to create new maps
+4. Create scraper for better maps
+5. Make GAN work good?
